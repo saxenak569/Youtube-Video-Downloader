@@ -1,0 +1,11 @@
+1. Open Terminal by pressing "Window+R" and Type cmd
+
+2. Write command "cd D:\learning\djp\YoutubeVideoDownloader>"
+
+3. Write command "python manage.py runserver"
+
+4. Open any browser ant type "http://127.0.0.1:8000" in URL
+
+5. Paste Youtube URL and click on Download button
+
+6. Enjoy Video Downloaded !!
